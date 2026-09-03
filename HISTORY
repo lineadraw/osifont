@@ -1,5 +1,6 @@
 2026-09-03
 - restored Ё ё Э э, restored Russian and Belarusian support
+- fork (lineadraw): distributed under GNU LGPL version 3 with GPL font exception only, osifont-gpl2fe and osifont-lgpl3fe files removed, osifont.ttf/woff are now the LGPL build
 
 2026-01-21
 -added ← ↑ → ↓ ↕ ↖ ↗ ↘ ↙(Arrows)

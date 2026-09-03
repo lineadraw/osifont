@@ -1,23 +1,23 @@
 # What is osifont
 
-In some European countries, CAD projects must have a font which conform to IS0 3O98 specification. Commercial CADs have this font, but free CADs do not. There is no available free font yet, so this project will fix this. This font will be created completely from scratch. Font is created with free tools like FontForge, Inkscape, Gimp. Font is available under 3 licences: GNU GPL licence version 3 with GPL font exception, GNU GPL licence version 2 with GPL font exception, GNU LGPL licence version 3 with GPL font exception.
+> This repository is a fork of [hikikomori82/osifont](https://github.com/hikikomori82/osifont) maintained by [lineadraw](https://github.com/lineadraw). It restores the Russian and Belarusian glyphs (ЁёЭэ) that were removed upstream and distributes the font under a single licence, GNU LGPL version 3 with GPL font exception. Everything else is unchanged from the original project.
+
+In some European countries, CAD projects must have a font which conform to IS0 3O98 specification. Commercial CADs have this font, but free CADs do not. There is no available free font yet, so this project will fix this. This font will be created completely from scratch. Font is created with free tools like FontForge, Inkscape, Gimp. Font is available under GNU LGPL licence version 3 with GPL font exception (the original project also offers GNU GPL version 2 and 3 variants).
 
 ### Try it online:
 
-- You can now [try osifont online](https://hikikomori82.github.io/osifont/)
+- You can [try the original osifont online](https://hikikomori82.github.io/osifont/) (upstream demo, without ЁёЭэ)
 
 ### License
 
-Osifont is available in 3 different licenses:
+All font files in this repository (osifont.ttf, osifont.woff, osifont-italic.ttf, osifont-italic.woff) are distributed under the GNU LGPL licence version 3 with GPL font exception. See [LICENSE](LICENSE), [COPYING.LESSER](COPYING.LESSER) and [COPYING](COPYING).
 
-- osifont.ttf - GNU GPL licence version 3 with font exception
-- osifont-gpl2fe.ttf - GNU GPL licence version 2 with font exception
-- osifont-lgpl3fe.ttf - GNU LGPL licence version 3 with font exception
+The original project offers the same font under GNU GPL version 3, GNU GPL version 2 and GNU LGPL version 3, each with the font exception. This fork keeps only the LGPL variant.
 
 Disclaimer: Only contributors with at least 10% of glyphs contributed can discuss license changes.
 
 ### Recent news
-  - **2026-09-03** - restored ЁёЭэ, restored Russian and Belarusian support
+  - **2026-09-03** - restored ЁёЭэ, restored Russian and Belarusian support, fork distributes LGPL v3 variant only
   - **2026-01-21** - Added ← ↑ → ↓ ↕ ↖ ↗ ↘ ↙ ■ ▲ △ ▶ ▷ ▼ ◀ ◁ ⤡ ⤢ 񡚖 񡚗 Arrows and CAD annotation symbols
   - **2025-09-04** - Added ‖∢∥∦⊕⊖⌱⟂ CAD annotation symbols
   - **2025-05-20** - Added ĈĉĜĝĤĥĴĵŜŝ for Esperanto support
@@ -56,4 +56,4 @@ Greek (few diacritics are missing but small and capital letters are ok)
 
 ### Participate
 
-If you want to join the project, send me email to hikikomori82 at gmail dot com. I am currently very busy with other projects to create new characters myself but if you create new characters I will add them.
+For this fork, open an issue or pull request in this repository. To join the original project, contact its author at hikikomori82 at gmail dot com.

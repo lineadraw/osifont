@@ -6,7 +6,8 @@ In some European countries, CAD projects must have a font which conform to IS0 3
 
 ### Try it online:
 
-- You can [try the original osifont online](https://hikikomori82.github.io/osifont/) (upstream demo, without ЁёЭэ)
+- You can [try osifont online](https://lineadraw.github.io/osifont/) (this fork, with ЁёЭэ)
+- The [original project's demo](https://hikikomori82.github.io/osifont/) is also available (without ЁёЭэ)
 
 ### License
 

@@ -16,6 +16,9 @@ with FontForge 2.0 (http://fontforge.sf.net)
 Project hosted on:
 http://github.com/hikikomori82/osifont/
 
+Modified version (Russian and Belarusian glyphs restored):
+https://github.com/lineadraw/osifont/
+
 Distributed under GNU LGPL version 3 with GPL font exception:
 
 As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.

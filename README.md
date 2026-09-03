@@ -17,6 +17,7 @@ Osifont is available in 3 different licenses:
 Disclaimer: Only contributors with at least 10% of glyphs contributed can discuss license changes.
 
 ### Recent news
+  - **2026-09-03** - restored ЁёЭэ, restored Russian and Belarusian support
   - **2026-01-21** - Added ← ↑ → ↓ ↕ ↖ ↗ ↘ ↙ ■ ▲ △ ▶ ▷ ▼ ◀ ◁ ⤡ ⤢ 񡚖 񡚗 Arrows and CAD annotation symbols
   - **2025-09-04** - Added ‖∢∥∦⊕⊖⌱⟂ CAD annotation symbols
   - **2025-05-20** - Added ĈĉĜĝĤĥĴĵŜŝ for Esperanto support
@@ -41,9 +42,9 @@ Disclaimer: Only contributors with at least 10% of glyphs contributed can discus
   - **2014-03-02** - Glyphs (≈≡½¼¾№≐≙)
   - **2014-02-25** - Upper index numbers and signs (¹²³⁰⁴⁵⁶⁷⁸⁹⁺⁻⁼)
 
-### Supported languages (39)
+### Supported languages (41)
 
-Afrikaans, Albanian, Azerbaijani, Bulgarian, Catalan, Croation, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Hungarian, Icelandic, Irish (including Old Irish), Italian, Kazakh, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Māori, Moldovian, Montenegrin (latin, cyrillic), Norwegian, Polish, Portuguese, Romanian, Serbian, Slovak, Slovene, Spanish, Swedish, Turkish, Ukrainian, Vietnamese.
+Afrikaans, Albanian, Azerbaijani, Belarusian, Bulgarian, Catalan, Croation, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Hungarian, Icelandic, Irish (including Old Irish), Italian, Kazakh, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Māori, Moldovian, Montenegrin (latin, cyrillic), Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovene, Spanish, Swedish, Turkish, Ukrainian, Vietnamese.
 
 ### Languages supported only by romanization (4)
 
@@ -52,10 +53,6 @@ Armenian, Chinese (Hanyu Pinyin), Japanese (Hepburn), Georgian
 ### Partially supported languages (1)
 
 Greek (few diacritics are missing but small and capital letters are ok)
-
-### Languages with no support
-
-Belarusian, Russian
 
 ### Participate
 
